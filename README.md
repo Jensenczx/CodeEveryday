@@ -1,13 +1,20 @@
 ##CodeEveryday
+
+>算法如同做爱的前戏，没有它，是无法体会巅峰的高潮快感。
+- HDUHXC
+
+---
 ###TARGET
-算法老师说，算法如同做爱的前戏，没有它，是无法体会巅峰的高潮快感。
+
+---
  
  0 err0r  0 w4rn1n9  1 4c 
  
  Sh4re the j0y w1th y0ur fr1end
  
- 
 ###CONTENT
+
+---
 [1.拿手套E](https://segmentfault.com/a/1190000004352547)
 
 [2.重复词D](https://segmentfault.com/a/1190000004356305)
@@ -27,5 +34,11 @@
 [9.最长单词E](https://segmentfault.com/a/1190000004392897)
 
 [10.在O(1)复杂度下删除列表元素E](https://segmentfault.com/a/1190000004432131)
+
+[11.二叉树所有路径E](https://segmentfault.com/a/1190000004437178)
+
+--- 
+E：Easy
+D：Difficult
 
 
