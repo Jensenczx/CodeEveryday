@@ -37,6 +37,8 @@
 
 [11.二叉树所有路径E](https://segmentfault.com/a/1190000004437178)
 
+[12.寻找缺失数E](https://segmentfault.com/a/1190000004439278)
+
 --- 
 E：Easy
 D：Difficult
