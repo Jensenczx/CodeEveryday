@@ -39,7 +39,11 @@
 
 [12.寻找缺失数E](https://segmentfault.com/a/1190000004439278)
 
+[13.加一E](https://segmentfault.com/a/1190000004445333)
+
 --- 
+题目来源：LintCode
+
 E：Easy
 D：Difficult
 
