@@ -41,6 +41,8 @@
 
 [13.加一E](https://segmentfault.com/a/1190000004445333)
 
+[14.数飞机](https://segmentfault.com/a/1190000004449555)
+
 --- 
 题目来源：LintCode
 
