@@ -43,6 +43,8 @@
 
 [14.数飞机](https://segmentfault.com/a/1190000004449555)
 
+[15.恢复IP地址](https://segmentfault.com/a/1190000004456824)
+
 --- 
 题目来源：LintCode
 
