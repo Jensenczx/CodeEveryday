@@ -45,6 +45,8 @@
 
 [15.恢复IP地址](https://segmentfault.com/a/1190000004456824)
 
+[16.落单的数](https://segmentfault.com/a/1190000004463176)
+
 --- 
 题目来源：LintCode
 
