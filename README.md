@@ -47,6 +47,8 @@
 
 [16.落单的数](https://segmentfault.com/a/1190000004463176)
 
+[17.等价二叉树](https://segmentfault.com/a/1190000004470643)
+
 --- 
 题目来源：LintCode
 
