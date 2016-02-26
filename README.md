@@ -1,18 +1,18 @@
-##CodeEveryday
+#CodeEveryday
 
->算法如同做爱的前戏，没有它，是无法体会巅峰的高潮快感。
+>算法如同前戏，没有它，是无法体会巅峰的高潮快感。
 - HDUHXC
 
 ---
-###TARGET
+##TARGET
 
 ---
  
  0 err0r  0 w4rn1n9  1 4c 
  
- Sh4re the j0y w1th y0ur fr1end
+ Sh4re the j0y w1th my fr1end
  
-###CONTENT
+##CONTENT
 
 ---
 [1.拿手套E](https://segmentfault.com/a/1190000004352547)
@@ -49,13 +49,25 @@
 
 [17.等价二叉树](https://segmentfault.com/a/1190000004470643)
 
-[18.背包问题]()
+###动态规划
 
-[19.背包问题2]()
+[18.背包问题](http://www.lintcode.com/zh-cn/problem/backpack/)
 
-[20.最长公共子字符串]()
+[19.背包问题2](http://www.lintcode.com/zh-cn/problem/backpack-ii/)
 
-[21.最长公共子序列]()
+[20.最长公共子字符串](http://www.lintcode.com/zh-cn/problem/longest-common-substring/)
+
+[21.最长公共子序列](http://www.lintcode.com/zh-cn/problem/longest-common-subsequence/)
+
+[22.数字三角形](http://www.lintcode.com/zh-cn/problem/triangle/)
+
+[23.打劫房屋](http://www.lintcode.com/problem/house-robber)
+
+[24.最小调整代价](http://www.lintcode.com/zh-cn/problem/minimum-adjustment-cost/)
+
+[25.硬币排成线](http://www.lintcode.com/zh-cn/problem/coins-in-a-line/)
+
+[26.编辑距离](http://www.lintcode.com/zh-cn/problem/edit-distance/)
 
 --- 
 题目来源：LintCode
