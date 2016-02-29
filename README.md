@@ -69,6 +69,18 @@
 
 [26.编辑距离](http://www.lintcode.com/zh-cn/problem/edit-distance/)
 
+[27.最长连续上升子序列](http://www.lintcode.com/zh-cn/problem/longest-increasing-continuous-subsequence/)
+
+[28.跳跃游戏](http://www.lintcode.com/zh-cn/problem/jump-game/)
+
+[29.最小路径和](http://www.lintcode.com/zh-cn/problem/minimum-path-sum/)
+
+[30.不同路径](http://www.lintcode.com/zh-cn/problem/unique-paths/)
+
+[31.不同路径2](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/)
+
+[32.爬楼梯](http://www.lintcode.com/zh-cn/problem/climbing-stairs/)
+
 --- 
 题目来源：LintCode
 
