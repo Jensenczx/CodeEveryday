@@ -15,11 +15,11 @@
 ##CONTENT
 
 ---
-[1.拿手套E](https://segmentfault.com/a/1190000004352547)
+[1.拿手套E]()
 
-[2.重复词D](https://segmentfault.com/a/1190000004356305)
+[2.重复词D]()
 
-[3.最后一个单词长度E](https://segmentfault.com/a/1190000004358789)
+[3.最后一个单词长度E]()
 
 [4.快乐数E](https://segmentfault.com/a/1190000004363507)
 
@@ -80,6 +80,26 @@
 [31.不同路径2](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/)
 
 [32.爬楼梯](http://www.lintcode.com/zh-cn/problem/climbing-stairs/)
+
+###剑指OFFER
+
+[33.用栈实现队列](http://www.lintcode.com/zh-cn/problem/implement-queue-by-two-stacks/)
+
+[34. Fizz Buzz 问题](http://www.lintcode.com/zh-cn/problem/fizz-buzz/)
+
+[35.菲波那切数列](http://www.lintcode.com/zh-cn/problem/fibonacci/)
+
+[36.二进制中1的个数](http://www.lintcode.com/zh-cn/problem/count-1-in-binary/)
+
+[37.寻找旋转数组最小值](http://www.lintcode.com/zh-cn/problem/find-minimum-in-rotated-sorted-array/)
+
+[38.单例](http://www.lintcode.com/zh-cn/problem/singleton/)
+
+[39.构造二叉树](http://www.lintcode.com/zh-cn/problem/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+[40.搜索矩阵](http://www.lintcode.com/zh-cn/problem/search-a-2d-matrix-ii/)
+
+[41.判断子树](http://www.lintcode.com/zh-cn/problem/subtree/)
 
 --- 
 题目来源：LintCode
