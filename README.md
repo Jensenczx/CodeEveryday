@@ -101,6 +101,18 @@
 
 [41.判断子树](http://www.lintcode.com/zh-cn/problem/subtree/)
 
+[42.奇偶分割数组](http://www.lintcode.com/zh-cn/problem/partition-array-by-odd-and-even/)
+
+[43.删除链表中倒数第n个节点](http://www.lintcode.com/zh-cn/problem/remove-nth-node-from-end-of-list/)
+
+[44.合并两个排序链表](http://www.lintcode.com/zh-cn/problem/merge-two-sorted-lists/)
+
+[45.翻转链表](http://www.lintcode.com/zh-cn/problem/reverse-linked-list/)
+
+[46.用递归打印数字](http://www.lintcode.com/zh-cn/problem/print-numbers-by-recursion/)
+
+[47.快速幂](http://www.lintcode.com/zh-cn/problem/fast-power/)(un)
+
 --- 
 题目来源：LintCode
 
