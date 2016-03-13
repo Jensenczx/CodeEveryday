@@ -1,7 +1,8 @@
 #CodeEveryday
 
->算法如同前戏，没有它，是无法体会巅峰的高潮快感。
-- HDUHXC
+人总是会找借口说这个东西不是感兴趣的，所以我做不好是应该的，但是没有注意，面对的事情中感兴趣的事情总是少数，这就使得大多数时候做事情的态度，总是很懈怠，很消极，于是变成了一个懈怠的人，当真正面对自己感兴趣的东西时发现已经攥不紧拳头了   。　　
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　－－左神
 
 ---
 ##TARGET
@@ -112,6 +113,16 @@
 [46.用递归打印数字](http://www.lintcode.com/zh-cn/problem/print-numbers-by-recursion/)
 
 [47.快速幂](http://www.lintcode.com/zh-cn/problem/fast-power/)(un)
+
+[48.二叉树的路径和](http://www.lintcode.com/zh-cn/problem/binary-tree-path-sum/)
+
+[49.字符串置换](http://www.lintcode.com/zh-cn/problem/string-permutation/)
+
+[50.二叉树的后序遍历](http://www.lintcode.com/zh-cn/problem/binary-tree-postorder-traversal/)
+
+[51.最小栈](http://www.lintcode.com/zh-cn/problem/min-stack/)
+
+[52.二叉树的层次遍历](http://www.lintcode.com/zh-cn/problem/binary-tree-level-order-traversal/)
 
 --- 
 题目来源：LintCode
