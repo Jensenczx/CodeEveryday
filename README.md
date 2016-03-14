@@ -124,6 +124,11 @@
 
 [52.二叉树的层次遍历](http://www.lintcode.com/zh-cn/problem/binary-tree-level-order-traversal/)
 
+[53.螺旋矩阵](http://www.lintcode.com/problem/spiral-matrix)
+
+[54.复杂链表的复制](http://www.lintcode.com/zh-cn/problem/copy-list-with-random-pointer/)
+
+
 --- 
 题目来源：LintCode
 
