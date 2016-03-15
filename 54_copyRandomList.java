@@ -5,14 +5,14 @@ class RandomListNode {
   };
 public class Solution {
     /**
-     * @param head: The head of linked list with a random pointer.
-     * @return: A new head of a deep copy of the list.
+     * @param pHead: The pHead of linked list with a random pointer.
+     * @return: A new pHead of a deep copy of the list.
      */
-    public RandomListNode copyRandomList(RandomListNode head) {
+    public RandomListNode copyRandomList(RandomListNode pHead) {
         // write your code here
-        if(head==null)
+        if(pHead==null)
         	return null;
-        RandomListNode tmp = head;
+        RandomListNode tmp = pHead;
         //节点复制
         while(tmp.next!=null){
         	RandomListNode node = tmp.next;
@@ -22,7 +22,7 @@ public class Solution {
         	tmp = node;
         }
         tmp.next = new RandomListNode(tmp.label);
-        tmp = head;
+        tmp = pHead;
         //随机节点复制
         while(tmp.next!=null){
         	tmp.next.random = tmp.random;
@@ -31,7 +31,7 @@ public class Solution {
         		break;
         }
         //节点链拆分
-        tmp = head;
+        tmp = pHead;
         RandomListNode result = tmp.next;
         RandomListNode travelNode = result;
         tmp.next = travelNode.next;

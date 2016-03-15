@@ -5,22 +5,22 @@ public class Solution {
      */
     public int majorityNumber(ArrayList<Integer> nums) {
         // write your code
-        int result=0,num=0;
-        if(nums==null)
-        	return result;
-        if(nums.size()==0)
-        	return result;
-       	for(int tmp:nums){
-       		if(num==0){
-       			result = tmp;
-       			num++;
-       		}else if(num!=0&&tmp==result)
-       			num++;
-       		else if(num!=0&&tmp!=result){
-       			if(--num==0)
-       				result = tmp;
-       		}
-       	}
-       	return result;
+         int result,num=0;
+        if(nums==null||nums.size()==0)
+          return result;
+        int result = nums.get(0);
+        num++;
+        int len = nums.size();
+        for(int i=1; i<len; i++){
+            if(nums.get(i)==result)
+              num++;
+            else{
+              if(--num==0){
+                result = nums.get(i);
+                num++;
+              } 
+            }
+        }
+        return result;
     }
 }
