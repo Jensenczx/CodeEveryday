@@ -6,28 +6,23 @@ class Solution {
      */
     public int kthLargestElement(int k, int[] nums) {
         // write your code here
-        if(nums==null||nums.length==0||nums.length<=k)
+        if(nums==null||nums.length==0||nums.length<k)
         	return 0;
         int len = nums.length;
+        int high = len-1;
         int low = 0;
-        int target = partation(nums,low,len-1);
         int item = k-1;
-        while(target!=item){
-        	if(target<item){
-        		if(target+1>=len-1)
-        			return nums[target+1];
-        		target = partation(nums,target+1,len-1);
-        	}
-        	else if(target>item){
-        		if(target-1==low)
-        			return nums[target-1];
-        		target = partation(nums,low,target-1);
-        	}
+        while(true){
+        	int target = partition(nums,low,high);
+        	if(target==item) return nums[target];
+        	if(target<item) low = target+1;
+        	else if(target>item) high = target-1;
         }
-        return nums[target];
     }
 
    private static int partition(int[] array,int lo,int high){
+   		if(lo==high)
+   			return high;
 		int lowFlag = lo;
 		int highFlag = high+1;
 		while(true){

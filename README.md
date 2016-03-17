@@ -3,7 +3,7 @@
 人总是会找借口说这个东西不是感兴趣的，所以我做不好是应该的，但是没有注意，面对的事情中感兴趣的事情总是少数，这就使得大多数时候做事情的态度，总是很懈怠，很消极，于是变成了一个懈怠的人，当真正面对自己感兴趣的东西时发现已经攥不紧拳头了   。　　
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　－－左神
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ---
 ##TARGET
 
@@ -132,7 +132,9 @@
 
 [56.最大子数组](http://www.lintcode.com/zh-cn/problem/maximum-subarray/)
 
-[57.]
+[57. 第k大元素](http://www.lintcode.com/zh-cn/problem/kth-largest-element/)
+
+[58.交叉链表的第一个公共元素](http://www.lintcode.com/zh-cn/problem/intersection-of-two-linked-lists/)
 
 --- 
 题目来源：LintCode
