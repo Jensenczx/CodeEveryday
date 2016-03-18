@@ -136,6 +136,12 @@
 
 [58.交叉链表的第一个公共元素](http://www.lintcode.com/zh-cn/problem/intersection-of-two-linked-lists/)
 
+[59.丑数](http://www.lintcode.com/zh-cn/problem/ugly-number/)
+
+[60.统计数字出现次数](http://www.lintcode.com/zh-cn/problem/digit-counts/)
+
+[61.二进制求和](http://www.lintcode.com/zh-cn/problem/add-binary/)
+
 --- 
 题目来源：LintCode
 
