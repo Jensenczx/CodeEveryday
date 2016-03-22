@@ -1,9 +1,9 @@
 #CodeEveryday
 
-人总是会找借口说这个东西不是感兴趣的，所以我做不好是应该的，但是没有注意，面对的事情中感兴趣的事情总是少数，这就使得大多数时候做事情的态度，总是很懈怠，很消极，于是变成了一个懈怠的人，当真正面对自己感兴趣的东西时发现已经攥不紧拳头了   。　　
+人总是会找借口说这个东西不是感兴趣的，所以我做不好是应该的，但是没有注意，面对的事情中感兴趣的事情总是少数，这就使得大多数时候做事情的态度，总是很懈怠，很消极，于是变成了一个懈怠的人，当真正面对自己感兴趣的东西时发现已经攥不紧拳头了。　　
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　－－左神
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ---
 ##TARGET
 
@@ -141,6 +141,30 @@
 [60.统计数字出现次数](http://www.lintcode.com/zh-cn/problem/digit-counts/)
 
 [61.二进制求和](http://www.lintcode.com/zh-cn/problem/add-binary/)
+
+[62.将二叉树拆成链表](http://www.lintcode.com/zh-cn/problem/flatten-binary-tree-to-linked-list/)
+
+###排序
+
+[63.中位数](http://www.lintcode.com/zh-cn/problem/median/)
+
+[68.字符大小写排序](http://www.lintcode.com/zh-cn/problem/sort-letters-by-case/)
+
+[70.数组划分](http://www.lintcode.com/zh-cn/problem/partition-array/)
+
+###递归
+
+[65.全排列](http://www.lintcode.com/zh-cn/problem/permutations/)
+
+[66.带有重复数字的全排列](http://www.lintcode.com/zh-cn/problem/permutations-ii/)
+
+[67.汉诺塔]()
+
+[69.组合问题](http://www.lintcode.com/zh-cn/problem/combinations/)
+
+###技巧
+
+[64.乱序寻找第一个丢失的正整数]()
 
 --- 
 题目来源：LintCode

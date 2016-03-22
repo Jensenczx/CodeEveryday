@@ -13,12 +13,12 @@ public class Solution {
         int cur=0;
         int pre=0;
         int min=Min(lenA,lenB);
-        String result = new String();
+        StringBuilder result = new StringBuilder("");
         int i=1;
         while(i<=min){
         	cur = (a.charAt(lenA-i)-'0'+b.charAt(lenB-i)-'0'+pre)%2;
         	pre = (a.charAt(lenA-i)-'0'+b.charAt(lenB-i)-'0'+pre)/2;
-        	result=cur+result;
+            result.insert(0,cur);
         	i++;
         }
         if(lenA-min>0){
@@ -26,7 +26,7 @@ public class Solution {
         	while(i>=0){
         		cur = (a.charAt(i)-'0'+pre)%2;
         		pre = (a.charAt(i)-'0'+pre)/2;
-        		result=cur+result;
+                result.insert(0,cur);
         		i--;
         	}
         }else if(lenB-min>0){
@@ -34,14 +34,14 @@ public class Solution {
         	while(i>=0){
         		cur = (b.charAt(i)-'0'+pre)%2;
         		pre = (b.charAt(i)-'0'+pre)/2;
-        		result=cur+result;
+                result.insert(0,cur);
         		i--;
         	}
 
         }
         if(pre!=0)
-        	result=pre+result;
-        return result;
+            result.insert(0,pre);
+        return result.toString();
     }
 
     public int Min(int num1,int num2){
