@@ -152,6 +152,10 @@
 
 [70.数组划分](http://www.lintcode.com/zh-cn/problem/partition-array/)
 
+[71.两数之和](http://www.lintcode.com/zh-cn/problem/two-sum/)
+
+[72.三数之和](http://www.lintcode.com/zh-cn/problem/3sum/)
+
 ###递归
 
 [65.全排列](http://www.lintcode.com/zh-cn/problem/permutations/)
@@ -162,9 +166,18 @@
 
 [69.组合问题](http://www.lintcode.com/zh-cn/problem/combinations/)
 
+###二分法
+
+[73.二分查找](http://www.lintcode.com/zh-cn/problem/first-position-of-target/)
+
+[74.寻找峰值](http://www.lintcode.com/zh-cn/problem/find-peak-element/)
+
 ###技巧
 
 [64.乱序寻找第一个丢失的正整数]()
+
+
+
 
 --- 
 题目来源：LintCode
