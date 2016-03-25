@@ -176,6 +176,10 @@
 
 [64.乱序寻找第一个丢失的正整数]()
 
+###字符串处理
+
+[75.报数](http://www.lintcode.com/zh-cn/problem/count-and-say/)
+
 
 
 
