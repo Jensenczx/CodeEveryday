@@ -180,6 +180,10 @@
 
 [75.报数](http://www.lintcode.com/zh-cn/problem/count-and-say/)
 
+[76.两个字符串是变位词](http://www.lintcode.com/zh-cn/problem/two-strings-are-anagrams/)
+
+[77.判断字符串是否没有重复字符](http://www.lintcode.com/zh-cn/problem/unique-characters/)
+
 
 
 
