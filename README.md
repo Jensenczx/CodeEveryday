@@ -195,6 +195,10 @@
 
 [81.删除链表中元素](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
 
+###线段树
+
+[82.线段树的构造](http://www.lintcode.com/zh-cn/problem/segment-tree-build/)
+
 --- 
 题目来源：LintCode
 
