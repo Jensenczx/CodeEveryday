@@ -184,8 +184,16 @@
 
 [77.判断字符串是否没有重复字符](http://www.lintcode.com/zh-cn/problem/unique-characters/)
 
+[81.字符串包含比较](http://www.lintcode.com/zh-cn/problem/compare-strings/)
 
+###链表
+[78.链表切分]()(no link)
 
+[79.链表中的倒数第N个结点](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/)
+
+[80.链表求和](http://www.lintcode.com/zh-cn/problem/add-two-numbers/)
+
+[81.删除链表中元素](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
 
 --- 
 题目来源：LintCode
