@@ -199,6 +199,8 @@
 
 [82.线段树的构造](http://www.lintcode.com/zh-cn/problem/segment-tree-build/)
 
+[83.线段树的查询](http://www.lintcode.com/zh-cn/problem/segment-tree-query/)
+
 --- 
 题目来源：LintCode
 
