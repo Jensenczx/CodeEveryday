@@ -201,6 +201,8 @@
 
 [83.线段树的查询](http://www.lintcode.com/zh-cn/problem/segment-tree-query/)
 
+[84.线段树的修改](http://www.lintcode.com/zh-cn/problem/segment-tree-modify/)
+
 --- 
 题目来源：LintCode
 
