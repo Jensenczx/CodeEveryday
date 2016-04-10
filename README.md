@@ -1,10 +1,9 @@
 #CodeEveryday
 
-人总是会找借口说这个东西不是感兴趣的，所以我做不好是应该的，但是没有注意，面对的事情中感兴趣的事情总是少数，这就使得大多数时候做事情的态度，总是很懈怠，很消极，于是变成了一个懈怠的人，当真正面对自己感兴趣的东西时发现已经攥不紧拳头了。　　
+- 和世界交手的这许多年，你是否光彩依旧，兴致盎然。
+- 有些事情明明是需要交给时间解决的，而你却试图证明你比时间更牛逼，那么最终的结果毫无疑问是，你被时间狠狠打脸，慢慢来，这样会比较快。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　－－左神
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
----
 ##TARGET
 
 ---
@@ -204,6 +203,10 @@
 [85.线段树的修改](http://www.lintcode.com/zh-cn/problem/segment-tree-modify/)
 
 [86.线段树的构造（具有MAX节点）](http://www.lintcode.com/zh-cn/problem/segment-tree-build-ii/)
+
+###数字处理
+
+[87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
 
 --- 
 题目来源：LintCode
