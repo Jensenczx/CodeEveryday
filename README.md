@@ -193,15 +193,17 @@
 
 [80.链表求和](http://www.lintcode.com/zh-cn/problem/add-two-numbers/)
 
-[81.删除链表中元素](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
+[82.删除链表中元素](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
 
 ###线段树
 
-[82.线段树的构造](http://www.lintcode.com/zh-cn/problem/segment-tree-build/)
+[83.线段树的构造](http://www.lintcode.com/zh-cn/problem/segment-tree-build/)
 
-[83.线段树的查询](http://www.lintcode.com/zh-cn/problem/segment-tree-query/)
+[84.线段树的查询](http://www.lintcode.com/zh-cn/problem/segment-tree-query/)
 
-[84.线段树的修改](http://www.lintcode.com/zh-cn/problem/segment-tree-modify/)
+[85.线段树的修改](http://www.lintcode.com/zh-cn/problem/segment-tree-modify/)
+
+[86.线段树的构造（具有MAX节点）](http://www.lintcode.com/zh-cn/problem/segment-tree-build-ii/)
 
 --- 
 题目来源：LintCode
