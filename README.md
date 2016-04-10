@@ -17,10 +17,6 @@
 ---
 [1.拿手套E]()
 
-[2.重复词D]()
-
-[3.最后一个单词长度E]()
-
 [4.快乐数E](https://segmentfault.com/a/1190000004363507)
 
 [5.排列序号D](https://segmentfault.com/a/1190000004370068)
@@ -184,6 +180,10 @@
 [77.判断字符串是否没有重复字符](http://www.lintcode.com/zh-cn/problem/unique-characters/)
 
 [81.字符串包含比较](http://www.lintcode.com/zh-cn/problem/compare-strings/)
+
+[2.重复词D]()
+
+[3.最后一个单词长度E]()
 
 ###链表
 [78.链表切分]()(no link)
