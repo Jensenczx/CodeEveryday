@@ -204,6 +204,8 @@
 
 [86.线段树的构造（具有MAX节点）](http://www.lintcode.com/zh-cn/problem/segment-tree-build-ii/)
 
+[88.区间最小数](http://www.lintcode.com/zh-cn/problem/interval-minimum-number/)
+
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
