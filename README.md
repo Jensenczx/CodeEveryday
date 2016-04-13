@@ -206,7 +206,9 @@
 
 [88.区间最小数](http://www.lintcode.com/zh-cn/problem/interval-minimum-number/)
 
-[89区间求和(1)](http://www.lintcode.com/zh-cn/problem/interval-sum/)
+[89.区间求和(1)](http://www.lintcode.com/zh-cn/problem/interval-sum/)
+
+[90.线段树查询(2)](http://www.lintcode.com/zh-cn/problem/segment-tree-query-ii/)
 
 ###数字处理
 
