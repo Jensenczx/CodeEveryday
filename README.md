@@ -210,6 +210,8 @@
 
 [90.线段树查询(2)](http://www.lintcode.com/zh-cn/problem/segment-tree-query-ii/)
 
+[91.统计比给定整数小的个数](http://www.lintcode.com/zh-cn/problem/count-of-smaller-number/#)
+
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
