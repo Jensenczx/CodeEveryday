@@ -214,6 +214,8 @@
 
 [92.合并排序数组](http://www.lintcode.com/zh-cn/problem/merge-sorted-array-ii/)
 
+[93.第一个错误的代码版本](http://www.lintcode.com/zh-cn/problem/first-bad-version/)
+
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
