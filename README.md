@@ -185,6 +185,8 @@
 
 [3.最后一个单词长度E]()
 
+[94.旋转字符串](http://www.lintcode.com/zh-cn/problem/rotate-string/)
+
 ###链表
 [78.链表切分]()(no link)
 
@@ -219,6 +221,7 @@
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
+
 
 --- 
 题目来源：LintCode
