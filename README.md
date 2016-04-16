@@ -167,6 +167,8 @@
 
 [74.寻找峰值](http://www.lintcode.com/zh-cn/problem/find-peak-element/)
 
+[93.第一个错误的代码版本](http://www.lintcode.com/zh-cn/problem/first-bad-version/)
+
 ###技巧
 
 [64.乱序寻找第一个丢失的正整数]()
@@ -195,8 +197,9 @@
 [80.链表求和](http://www.lintcode.com/zh-cn/problem/add-two-numbers/)
 
 [82.删除链表中元素](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
+###树
 
-###线段树
+####线段树
 
 [83.线段树的构造](http://www.lintcode.com/zh-cn/problem/segment-tree-build/)
 
@@ -216,8 +219,7 @@
 
 [92.合并排序数组](http://www.lintcode.com/zh-cn/problem/merge-sorted-array-ii/)
 
-[93.第一个错误的代码版本](http://www.lintcode.com/zh-cn/problem/first-bad-version/)
-
+[94.将排序数组转化为高度最低的二叉树](http://www.lintcode.com/zh-cn/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height/)
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
