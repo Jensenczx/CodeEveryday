@@ -219,7 +219,12 @@
 
 [92.合并排序数组](http://www.lintcode.com/zh-cn/problem/merge-sorted-array-ii/)
 
-[94.将排序数组转化为高度最低的二叉树](http://www.lintcode.com/zh-cn/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height/)
+####二叉树
+
+[95.将排序数组转化为高度最低的二叉树](http://www.lintcode.com/zh-cn/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height/)
+
+[96.二叉树的最小深度](http://www.lintcode.com/zh-cn/problem/minimum-depth-of-binary-tree/)
+
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
