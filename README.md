@@ -189,6 +189,8 @@
 
 [94.旋转字符串](http://www.lintcode.com/zh-cn/problem/rotate-string/)
 
+[97.字符串旋转转化]()
+
 ###链表
 [78.链表切分]()(no link)
 
