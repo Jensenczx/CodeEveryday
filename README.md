@@ -191,6 +191,8 @@
 
 [97.字符串旋转转化]()
 
+[98.有效回文串](http://www.lintcode.com/zh-cn/problem/valid-palindrome/)
+
 ###链表
 [78.链表切分]()(no link)
 
