@@ -233,6 +233,9 @@
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
 
+###设计模式
+[99.玩具工厂](http://www.lintcode.com/zh-cn/problem/toy-factory/)
+
 
 --- 
 题目来源：LintCode
