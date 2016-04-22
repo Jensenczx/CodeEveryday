@@ -1,6 +1,5 @@
 #CodeEveryday
 
-- 和世界交手的这许多年，你是否光彩依旧，兴致盎然。
 - 有些事情明明是需要交给时间解决的，而你却试图证明你比时间更牛逼，那么最终的结果毫无疑问是，你被时间狠狠打脸，慢慢来，这样会比较快。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
@@ -76,6 +75,8 @@
 [31.不同路径2](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/)
 
 [32.爬楼梯](http://www.lintcode.com/zh-cn/problem/climbing-stairs/)
+
+[100.Paint House](http://www.lintcode.com/zh-cn/problem/paint-house/)
 
 ###剑指OFFER
 
