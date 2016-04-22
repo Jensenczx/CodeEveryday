@@ -237,6 +237,7 @@
 ###设计模式
 [99.玩具工厂](http://www.lintcode.com/zh-cn/problem/toy-factory/)
 
+[101.Shape工厂](http://www.lintcode.com/zh-cn/problem/shape-factory/)
 
 --- 
 题目来源：LintCode
