@@ -233,11 +233,23 @@
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
+[103.尾部零的个数](http://www.lintcode.com/zh-cn/problem/trailing-zeros/)
 
 ###设计模式
 [99.玩具工厂](http://www.lintcode.com/zh-cn/problem/toy-factory/)
 
 [101.Shape工厂](http://www.lintcode.com/zh-cn/problem/shape-factory/)
+
+###排列组合
+
+[102.下一个排列](http://www.lintcode.com/zh-cn/problem/next-permutation-ii/)
+
+[65.全排列](http://www.lintcode.com/zh-cn/problem/permutations/)
+
+[66.带有重复数字的全排列](http://www.lintcode.com/zh-cn/problem/permutations-ii/)
+
+[69.组合问题](http://www.lintcode.com/zh-cn/problem/combinations/)
+
 
 --- 
 题目来源：LintCode
