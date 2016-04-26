@@ -153,6 +153,8 @@
 
 [72.三数之和](http://www.lintcode.com/zh-cn/problem/3sum/)
 
+[105.逆序对](http://www.lintcode.com/zh-cn/problem/reverse-pairs/)
+
 ###递归
 
 [65.全排列](http://www.lintcode.com/zh-cn/problem/permutations/)
@@ -162,6 +164,8 @@
 [67.汉诺塔]()
 
 [69.组合问题](http://www.lintcode.com/zh-cn/problem/combinations/)
+
+[107.生成括号](http://www.lintcode.com/zh-cn/problem/generate-parentheses/)
 
 ###二分法
 
@@ -195,6 +199,8 @@
 
 [98.有效回文串](http://www.lintcode.com/zh-cn/problem/valid-palindrome/)
 
+[108.字符串查找](http://www.lintcode.com/zh-cn/problem/strstr/)
+
 ###链表
 [78.链表切分]()(no link)
 
@@ -203,6 +209,8 @@
 [80.链表求和](http://www.lintcode.com/zh-cn/problem/add-two-numbers/)
 
 [82.删除链表中元素](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
+
+[106.交换链表中的两节点](http://www.lintcode.com/zh-cn/problem/swap-nodes-in-pairs/)
 ###树
 
 ####线段树
@@ -234,6 +242,7 @@
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)
+
 [103.尾部零的个数](http://www.lintcode.com/zh-cn/problem/trailing-zeros/)
 
 ###设计模式
