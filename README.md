@@ -167,6 +167,8 @@
 
 [107.生成括号](http://www.lintcode.com/zh-cn/problem/generate-parentheses/)
 
+[109.电话号码字母组合](http://www.lintcode.com/zh-cn/problem/letter-combinations-of-a-phone-number/)
+
 ###二分法
 
 [73.二分查找](http://www.lintcode.com/zh-cn/problem/first-position-of-target/)
