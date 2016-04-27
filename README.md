@@ -247,6 +247,8 @@
 
 [103.尾部零的个数](http://www.lintcode.com/zh-cn/problem/trailing-zeros/)
 
+[104.丑数](http://www.lintcode.com/zh-cn/problem/ugly-number/)
+
 ###设计模式
 [99.玩具工厂](http://www.lintcode.com/zh-cn/problem/toy-factory/)
 
