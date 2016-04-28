@@ -177,6 +177,8 @@
 
 [93.第一个错误的代码版本](http://www.lintcode.com/zh-cn/problem/first-bad-version/)
 
+[112.搜索插入位置](http://www.lintcode.com/zh-cn/problem/search-insert-position/)
+
 ###技巧
 
 [64.乱序寻找第一个丢失的正整数]()
