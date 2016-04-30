@@ -255,6 +255,8 @@
 
 [111.超级丑数](http://www.lintcode.com/zh-cn/problem/super-ugly-number/)
 
+[114.最小子数组](http://www.lintcode.com/zh-cn/problem/minimum-subarray/)
+
 ###设计模式
 [99.玩具工厂](http://www.lintcode.com/zh-cn/problem/toy-factory/)
 
