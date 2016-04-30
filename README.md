@@ -79,6 +79,8 @@
 [100.Paint House](http://www.lintcode.com/zh-cn/problem/paint-house/)
 
 [101.Paint Fence](http://www.lintcode.com/zh-cn/problem/paint-fence/)
+
+[113.Maximal Square](http://www.lintcode.com/zh-cn/problem/maximal-square/)
 ###剑指OFFER
 
 [33.用栈实现队列](http://www.lintcode.com/zh-cn/problem/implement-queue-by-two-stacks/)
