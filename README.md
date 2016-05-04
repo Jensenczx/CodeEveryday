@@ -276,7 +276,9 @@
 
 ###贪心
 
-[116.买卖股票的最佳时机](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock/)
+[116.买卖股票的最佳时机1](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock/)
+
+[117.买卖股票的最佳时机2](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-ii/)
 
 
 --- 
