@@ -274,6 +274,10 @@
 
 [69.组合问题](http://www.lintcode.com/zh-cn/problem/combinations/)
 
+###贪心
+
+[116.买卖股票的最佳时机](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock/)
+
 
 --- 
 题目来源：LintCode
