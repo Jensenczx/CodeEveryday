@@ -259,6 +259,8 @@
 
 [114.最小子数组](http://www.lintcode.com/zh-cn/problem/minimum-subarray/)
 
+[118.主元素2](http://www.lintcode.com/zh-cn/problem/majority-number-ii/)
+
 ###设计模式
 [99.玩具工厂](http://www.lintcode.com/zh-cn/problem/toy-factory/)
 
