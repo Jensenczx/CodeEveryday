@@ -219,6 +219,8 @@
 [82.删除链表中元素](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
 
 [106.交换链表中的两节点](http://www.lintcode.com/zh-cn/problem/swap-nodes-in-pairs/)
+
+[119.删除链表中重复元素](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-list/)
 ###树
 
 ####线段树
