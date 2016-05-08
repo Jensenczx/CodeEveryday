@@ -209,6 +209,8 @@
 
 [108.字符串查找](http://www.lintcode.com/zh-cn/problem/strstr/)
 
+[121.简化路径](http://www.lintcode.com/zh-cn/problem/simplify-path/)
+
 ###链表
 [78.链表切分]()(no link)
 
