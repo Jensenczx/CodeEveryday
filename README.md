@@ -211,6 +211,8 @@
 
 [121.简化路径](http://www.lintcode.com/zh-cn/problem/simplify-path/)
 
+[122.Left Pad](http://www.lintcode.com/zh-cn/problem/left-pad/)
+
 ###链表
 [78.链表切分]()(no link)
 
