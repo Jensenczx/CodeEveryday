@@ -269,6 +269,8 @@
 
 [120.落单的数](http://www.lintcode.com/zh-cn/problem/single-number-ii/)
 
+[123.格雷编码](http://www.lintcode.com/zh-cn/problem/gray-code/)
+
 ###设计模式
 [99.玩具工厂](http://www.lintcode.com/zh-cn/problem/toy-factory/)
 
