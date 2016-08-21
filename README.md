@@ -1,6 +1,6 @@
 #CodeEveryday
 
-- 有些事情明明是需要交给时间解决的，而你却试图证明你比时间更牛逼，那么最终的结果毫无疑问是，你被时间狠狠打脸，慢慢来，这样会比较快。
+- 有些事情明明是需要交给时间解决的，而却试图证明比时间更牛逼，那么最终的结果毫无疑问是，被时间狠狠打脸，慢慢来，这样会比较快。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 ##TARGET
@@ -292,6 +292,11 @@
 
 [117.买卖股票的最佳时机2](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-ii/)
 
+###哈希表
+
+[124.两数组的交](http://www.lintcode.com/zh-cn/problem/intersection-of-two-arrays/)
+
+[125.两数组的交 II](http://www.lintcode.com/zh-cn/problem/intersection-of-two-arrays-ii/#)
 
 --- 
 题目来源：LintCode

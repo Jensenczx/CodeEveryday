@@ -1,27 +1,29 @@
 import java.util.*;
 
 public class Gloves {
-    public static int findMinimum(int n, int[] left, int[] right) {
+   
+     public static int findMinimum(int n, int[] left, int[] right) {
         // write code here
         int selectNum = 0;
         if(n==0||left==null||right==null||left.length==0||right.length==0)
-        	return selectNum;
+            return selectNum;
         int tmpSelectNum = 0;
         tmpSelectNum = findOneColorCost(left,right)+getAllColorCost(left,right);
         selectNum = findOneColorCost(right,left)+getAllColorCost(right,left);
-		if(tmpSelectNum<selectNum)
-		 	return tmpSelectNum;
-		return selectNum;     
+        if(tmpSelectNum<selectNum)
+            return tmpSelectNum;
+        return selectNum;     
     }
 
     public static int findOneColorCost(int[] array1,int[] array2){
-    	int cost = 0;
-    	for(int i=0; i<array1.length; i++)
-    		if(array2[i]==0)
-        		cost += array1[i];
+        int cost = 0;
+        for(int i=0; i<array1.length; i++)
+            if(array2[i]==0)
+                cost += array1[i];
         cost++;
         return cost;
     }
+
 
     public static int getAllColorCost(int[] array1,int[] array2){
     	int min = -1;

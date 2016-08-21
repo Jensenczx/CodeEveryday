@@ -5,12 +5,12 @@ public class Solution {
      */
     public static int lengthOfLastWord(String s) {
         // Write your code here
-        int length = 0;
         if(s==null||s.length()==0)
-        	return length;
+        	return 0;
+        int length = 0;
         boolean flag = false;
-        for(int i=0; i<s.length(); i++){
-        	if(s.charAt(i)!=' '){
+        for(int i = 0; i < s.length(); i++){
+        	if(s.charAt(i) != ' '){
         		if(flag == true){
         			flag = false;
         			length = 0;
@@ -20,6 +20,13 @@ public class Solution {
         	else flag = true;
         }
         return length;
+    }
+
+    public static int lengthOfLastWord(String s){
+        if(s == null || s.length() == 0)
+            return 0;
+        String [] array = s.split(' ');
+        return array[array.length-1];
     }
 
     public static void main(String []args){
