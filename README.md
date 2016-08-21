@@ -298,6 +298,8 @@
 
 [125.两数组的交 II](http://www.lintcode.com/zh-cn/problem/intersection-of-two-arrays-ii/#)
 
+[126.快乐数](http://www.lintcode.com/zh-cn/problem/happy-number/)
+
 --- 
 题目来源：LintCode
 
