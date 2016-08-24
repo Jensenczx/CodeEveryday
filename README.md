@@ -306,6 +306,10 @@
 
 [128.移动零](http://www.lintcode.com/zh-cn/problem/move-zeroes/)
 
+###数组
+
+[129.合并排序数组||](http://www.lintcode.com/zh-cn/problem/merge-sorted-array/)
+
 --- 
 题目来源：LintCode
 
