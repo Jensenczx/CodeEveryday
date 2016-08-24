@@ -300,6 +300,12 @@
 
 [126.快乐数](http://www.lintcode.com/zh-cn/problem/happy-number/)
 
+[127.子数组之和](http://www.lintcode.com/zh-cn/problem/subarray-sum/)
+
+###两根指针
+
+[128.移动零](http://www.lintcode.com/zh-cn/problem/move-zeroes/)
+
 --- 
 题目来源：LintCode
 
