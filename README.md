@@ -253,6 +253,8 @@
 
 [96.二叉树的最小深度](http://www.lintcode.com/zh-cn/problem/minimum-depth-of-binary-tree/)
 
+[130.克隆二叉树](http://www.lintcode.com/zh-cn/problem/clone-binary-tree/)
+
 ###数字处理
 
 [87.整数翻转](http://www.lintcode.com/zh-cn/problem/reverse-integer/)

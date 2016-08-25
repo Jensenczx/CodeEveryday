@@ -38,11 +38,11 @@ public class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
     	if (nums1 == null || nums2 == null)
         	return null;
-        sort(nums1);
-        sort(nums2);
+        sort(nums1,0,nums1.length-1);
+        sort(nums2,0,nums2.length-1);
         int len = nums1.length > nums2.length ? nums1.length : nums2.length;
         int[] tmp = new int[len];
-        int i, j, k = 0;
+        int i=0, j=0, k = 0;
         while(i < nums1.length && j < nums2.length) {
         	if(nums1[i] == nums2[j]){
         		if (k == 0)
@@ -58,7 +58,7 @@ public class Solution {
         	}
         }
         int[] result = new int[k];
-        for (int i = 0; i < k; i++){
+        for (i = 0; i < k; i++){
         	result[i] = tmp[i];
         }
         return result;
@@ -72,7 +72,7 @@ public class Solution {
     	sort(nums, mid+1, high);
     }
 
-    public int partation(int[] nums, int low, int high){
+    public int partation(int[] array, int low, int high){
     	int lowFlag = low;
     	int highFlag = high + 1;
     	while(true){
