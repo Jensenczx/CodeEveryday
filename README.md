@@ -312,6 +312,10 @@
 
 [129.合并排序数组||](http://www.lintcode.com/zh-cn/problem/merge-sorted-array/)
 
+###前后遍历
+
+[131.数组剔除元素后的乘积](http://www.lintcode.com/zh-cn/problem/product-of-array-exclude-itself/)
+
 --- 
 题目来源：LintCode
 
