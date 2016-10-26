@@ -1,8 +1,7 @@
 #CodeEveryday
 
-- 有些事情明明是需要交给时间解决的，而却试图证明比时间更牛逼，那么最终的结果毫无疑问是，被时间狠狠打脸，慢慢来，这样会比较快。
+- 慢慢来，这样会比较快。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-
 ##TARGET
 
 ---
@@ -315,6 +314,10 @@
 ###前后遍历
 
 [131.数组剔除元素后的乘积](http://www.lintcode.com/zh-cn/problem/product-of-array-exclude-itself/)
+
+###深度搜索
+
+[133.N皇后问题](http://www.lintcode.com/zh-cn/problem/n-queens/)
 
 --- 
 题目来源：LintCode
